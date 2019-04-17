@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af0c2bc8-7ce5-4601-b62d-e85af7b09480" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adversarial_dropout/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adversarial_dropout/advdrop.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adversarial_dropout/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ensemblerandomization/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ensemblerandomization/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ensemblerandomization/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ensemblerandomization/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/.idea/person_following_triplet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/.idea/person_following_triplet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/person_following_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/person_following_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person_following_triplet/triplet" beforeDir="false" afterPath="$PROJECT_DIR$/../person_following_triplet/triplet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_tutorials/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_tutorials/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_tutorials/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_tutorials/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch_tutorials/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch_tutorials/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rl-intro-vpg/.idea/rl-intro-vpg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../rl-intro-vpg/.idea/rl-intro-vpg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rl-intro-vpg/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rl-intro-vpg/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rl-intro-vpg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rl-intro-vpg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rl-intro-vpg/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rl-intro-vpg/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rl-intro-vpg/vpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rl-intro-vpg/vpg.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RL_intro$main.coverage" NAME="main Coverage Results" MODIFIED="1555463158407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-200101130">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1813" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1813" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1555463205967" expanded="true" signature="39:335" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#6#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>epsilon</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/QLearning.py" />
+        <option value="$PROJECT_DIR$/policy.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RL_intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL_intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL_intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0c2bc8-7ce5-4601-b62d-e85af7b09480" name="Default Changelist" comment="" />
+      <created>1555450147203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555450147203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49936306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" weight="0.3297568" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QLearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#6#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1555463205967" expanded="true" signature="39:335" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
